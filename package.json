@@ -67,7 +67,7 @@
     "typescript": "^2.4.1"
   },
   "dependencies": {
-    "@types/arrify": "^1.0.1",
+    "@types/arrify": "^1.0.2",
     "@types/chalk": "^0.4.31",
     "@types/diff": "^3.2.1",
     "@types/minimist": "^1.2.0",
